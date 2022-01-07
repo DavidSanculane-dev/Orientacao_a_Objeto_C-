@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="01Conceitos\Pessoa.cs" />
     <Compile Include="02Métodos\PessoaM.cs" />
+    <Compile Include="03ExercicioEscolar\Aluno.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
