@@ -47,6 +47,8 @@
     <Compile Include="02Métodos\PessoaM.cs" />
     <Compile Include="03ExercicioEscolar\Aluno.cs" />
     <Compile Include="04ExercicioIMC\PessoaIMC.cs" />
+    <Compile Include="05Acesso\Produto.cs" />
+    <Compile Include="06Encapsulamento\AlunoEnca.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

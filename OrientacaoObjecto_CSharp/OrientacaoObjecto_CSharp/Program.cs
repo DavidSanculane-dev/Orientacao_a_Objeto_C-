@@ -1,6 +1,7 @@
 ﻿using OrientacaoObjecto_CSharp._01Conceitos;
 using OrientacaoObjecto_CSharp._02Métodos;
 using OrientacaoObjecto_CSharp._03ExercicioEscolar;
+using OrientacaoObjecto_CSharp._06Encapsulamento;
 using OrientacaoObjecto_CSharp.ExercicioIMC;
 using System;
 using System.Collections.Generic;
@@ -29,10 +30,13 @@ namespace OrientacaoObjecto_CSharp
             a.mensage();
 
             PessoaIMC imc = new PessoaIMC();
-            imc.peso = 68;
-            imc.altura1 = 1.69;
-            imc.altura2 = 1.69;
+            imc.peso = 69;
+            imc.altura1 = 1.68;
+            imc.altura2 = 1.68;
             imc.mensagee();
+
+            AlunoEnca enc = new AlunoEnca();
+            enc.mensag();
         }
     }
 }
