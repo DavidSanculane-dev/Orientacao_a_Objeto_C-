@@ -1,0 +1,6 @@
+C:\Users\David.Sanculane\Documents\MEUS PROJETOS\Orientacao_a_Objeto_C#\OrientacaoObjecto_CSharp\OrientacaoObjecto_CSharp\bin\Debug\OrientacaoObjecto_CSharp.exe.config
+C:\Users\David.Sanculane\Documents\MEUS PROJETOS\Orientacao_a_Objeto_C#\OrientacaoObjecto_CSharp\OrientacaoObjecto_CSharp\bin\Debug\OrientacaoObjecto_CSharp.exe
+C:\Users\David.Sanculane\Documents\MEUS PROJETOS\Orientacao_a_Objeto_C#\OrientacaoObjecto_CSharp\OrientacaoObjecto_CSharp\bin\Debug\OrientacaoObjecto_CSharp.pdb
+C:\Users\David.Sanculane\Documents\MEUS PROJETOS\Orientacao_a_Objeto_C#\OrientacaoObjecto_CSharp\OrientacaoObjecto_CSharp\obj\Debug\OrientacaoObjecto_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\David.Sanculane\Documents\MEUS PROJETOS\Orientacao_a_Objeto_C#\OrientacaoObjecto_CSharp\OrientacaoObjecto_CSharp\obj\Debug\OrientacaoObjecto_CSharp.exe
+C:\Users\David.Sanculane\Documents\MEUS PROJETOS\Orientacao_a_Objeto_C#\OrientacaoObjecto_CSharp\OrientacaoObjecto_CSharp\obj\Debug\OrientacaoObjecto_CSharp.pdb
